@@ -10,4 +10,4 @@ A PHP function for implementing password checks against  Troy Hunt's 'Have I bee
 		// Provided as reference for others to build upon. Shortcuts were taken!
     
 		// checkpassword() will return TRUE if currently POSTed password is safe to use.
-    		// (expects password field to be named "password", which it should anyway.)
+		// (expects password field to be named "password", which it should anyway.)
